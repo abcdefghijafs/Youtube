@@ -54,7 +54,8 @@ main{
     margin:5px;
 }
 footer{
-    background-color: darkgreen;
+    /* chaged the color */
+    background-color: red;
     border-style:dotted;
     border-width:5px;
     border-color:antiquewhite;
